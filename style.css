@@ -1,0 +1,29 @@
+#div_1{
+    display: inline;
+    width:100%;
+}
+h1{
+    display:inline;
+    float:left;
+}
+#instructions{
+    display:inline;
+    float:right;   
+}
+#img1{
+    height:700px;
+    width:100%;
+}
+.modal-dialog{
+    width:95%;
+}
+#image{
+width:45%;
+display:inline;
+} 
+video{
+background:url("game_console.png");
+background-size:cover;
+background-position:center;
+padding:25px;
+}
